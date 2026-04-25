@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+"http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="1.0">
+   <mapID target="aplicacion" url="html/index.html" />
+   <mapID target="compra_vehiculos" url="html/cVehiculo.html" />
+   <mapID target="venta_vehiculos" url="html/vVehiculo.html" />
+   <mapID target="listado_stocks" url="html/lStock.html" />
+   <mapID target="listado_facturados" url="html/lFacturado.html" />
+   <mapID target="nuevos_clientes" url="html/nClientes.html" />
+   <mapID target="consultar_clientes" url="html/cClientes.html" />
+   <mapID target="modificar_clientes" url="html/mClientes.html" />
+   <mapID target="nuevos_proveedores" url="html/nProveedores.html" />
+   <mapID target="consultar_proveedores" url="html/cProveedores.html" />
+   <mapID target="modificar_proveedores" url="html/mProveedores.html" />
+   <mapID target="comprar_proveedores" url="html/cProveedor.html" />
+   <mapID target="vender_clientes" url="html/cCliente.html" />
+   <mapID target="configuracion_bd" url="html/cBD.html" />
+   <mapID target="facturar_intervencion" url="html/fIntervencion.html" />
+   <mapID target="facturas_taller" url="html/fTaller.html" />
+   <mapID target="facturas_almacen" url="html/fAlmacen.html" />
+   <mapID target="facturas_vehiculos" url="html/fVehiculo.html" />
+   <mapID target="acerca_de" url="html/aDe.html" />
+   <mapID target="cerrar_sesion" url="html/cerrar.html" />
+   <mapID target="nuevos_usuarios" url="html/nUsuario.html" />
+   <mapID target="consultar_usuarios" url="html/cUsuario.html" />
+   <mapID target="modificar_usuarios" url="html/mUsuario.html" />
+   <mapID target="nuevas_familias" url="html/nFamilia.html" />
+   <mapID target="consultar_familias" url="html/cFamilia.html" />
+   <mapID target="modificar_familias" url="html/mFamilia.html" />
+   <mapID target="nuevas_formas" url="html/nFormas.html" />
+   <mapID target="consultar_formas" url="html/cFormas.html" />
+   <mapID target="modificar_formas" url="html/mFormas.html" />
+   <mapID target="nuevas_tarifas" url="html/nTarifas.html" />
+   <mapID target="consultar_tarifas" url="html/cTarifas.html" />
+   <mapID target="modificar_tarifas" url="html/mTarifas.html" />
+</map>

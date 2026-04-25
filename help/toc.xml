@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="ReplyCar"    target="aplicacion">
+           <tocitem text="Compra de Vehículos"    target="compra_vehiculos"/>
+           <tocitem text="Venta de Vehículos"    target="venta_vehiculos"/>
+           <tocitem text="Listado Stocks"    target="listado_stocks"/>
+           <tocitem text="Listado Facturados"    target="listado_facturados"/>
+           <tocitem text="Nuevos Clientes"    target="nuevos_clientes"/>
+           <tocitem text="Consultar Clientes"    target="consultar_clientes"/>
+           <tocitem text="Modificar Clientes"    target="modificar_clientes"/>
+           <tocitem text="Nuevos Proveedores"    target="nuevos_proveedores"/>
+           <tocitem text="Consultar Proveedores"    target="consultar_proveedores"/>
+           <tocitem text="Modificar Proveedores"    target="modificar_proveedores"/>
+           <tocitem text="Comprar a Proveedor"    target="comprar_proveedores"/>
+           <tocitem text="Vender a Cliente"    target="vender_clientes"/>
+           <tocitem text="Facturar Intervención"    target="facturar_intervencion"/>
+           <tocitem text="Facturas de Taller"    target="facturas_taller"/>
+           <tocitem text="Facturas de Almacén"    target="facturas_almacen"/>
+           <tocitem text="Facturas de Vehículos"    target="facturas_vehiculos"/>
+           <tocitem text="Configuracion de B.D."    target="configuracion_bd"/>
+           <tocitem text="Acerca de..."    target="acerca_de"/>
+           <tocitem text="Cerrar Sesión"    target="cerrar_sesion"/>
+           <tocitem text="Nuevos Usuarios"    target="nuevos_usuarios"/>
+           <tocitem text="Consultar Usuarios"    target="consultar_usuarios"/>
+           <tocitem text="Modificar Usuarios"    target="modificar_usuarios"/>
+           <tocitem text="Nuevas Familias"    target="nuevas_familias"/>
+           <tocitem text="Consultar Familias"    target="consultar_familias"/>
+           <tocitem text="Modificar Familias"    target="modificar_familias"/>
+           <tocitem text="Nuevas Formas de Pago"    target="nuevas_formas"/>
+           <tocitem text="Consultar Formas de Pago"    target="consultar_formas"/>
+           <tocitem text="Modificar Formas de Pago"    target="modificar_formas"/>
+           <tocitem text="Nuevas Tarifas de Taller"    target="nuevas_tarifas"/>
+           <tocitem text="Consultar Tarifas de Taller"    target="consultar_tarifas"/>
+           <tocitem text="Modificar Tarifas de Taller"    target="modificar_tarifas"/>
+        </tocitem>
+</toc>

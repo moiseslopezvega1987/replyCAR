@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+        <indexitem text="ReplyCar"    target="aplicacion"/>
+        <indexitem text="Compra de Vehículos"    target="compra_vehiculos"/>
+        <indexitem text="Venta de Vehículos"    target="venta_vehiculos"/>
+        <indexitem text="Listado Stocks"    target="listado_stocks"/>
+        <indexitem text="Listado Facturados"    target="listado_facturados"/>
+        <indexitem text="Nuevos Clientes"    target="nuevos_clientes"/>
+        <indexitem text="Consultar Clientes"    target="consultar_clientes"/>
+        <indexitem text="Modificar Clientes"    target="modificar_clientes"/>
+        <indexitem text="Nuevos Proveedores"    target="nuevos_proveedores"/>
+        <indexitem text="Consultar Proveedores"    target="consultar_proveedores"/>
+        <indexitem text="Modificar Proveedores"    target="modificar_proveedores"/>
+        <indexitem text="Comprar a Proveedor"    target="comprar_proveedores"/>
+        <indexitem text="Configuracion de B.D."    target="configuracion_bd"/>
+        <indexitem text="Vender a Cliente"    target="vender_clientes"/>
+        <indexitem text="Facturar Intervención"    target="facturar_intervencion"/>
+        <indexitem text="Facturas de Taller"    target="facturas_taller"/>
+        <indexitem text="Facturas de Almacén"    target="facturas_almacen"/>
+        <indexitem text="Facturas de Vehículos"    target="facturas_vehiculos"/>
+        <indexitem text="Acerca de..."    target="acerca_de"/>
+        <indexitem text="Cerrar Sesión"    target="cerrar_sesion"/>
+        <indexitem text="Nuevos Usuarios"    target="nuevos_usuarios"/>
+        <indexitem text="Consultar Usuarios"    target="consultar_usuarios"/>
+        <indexitem text="Modificar Usuarios"    target="modificar_usuarios"/>
+        <indexitem text="Nuevas Familias"    target="nuevas_familias"/>
+        <indexitem text="Consultar Familias"    target="consultar_familias"/>
+        <indexitem text="Modificar Familias"    target="modificar_familias"/>
+        <indexitem text="Nuevas Formas de Pago"    target="nuevas_formas"/>
+        <indexitem text="Consultar Formas de Pago"    target="consultar_formas"/>
+        <indexitem text="Modificar Formas de Pago"    target="modificar_formas"/>
+        <indexitem text="Nuevas Tarifas de Taller"    target="nuevas_tarifas"/>
+        <indexitem text="Consultar Tarifas de Taller"    target="consultar_tarifas"/>
+        <indexitem text="Modificar Tarifas de Taller"    target="modificar_tarifas"/>
+</index>
